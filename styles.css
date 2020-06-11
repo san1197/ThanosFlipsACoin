@@ -1,6 +1,8 @@
 /* body{
     background: url(bg.jpg) no-repeat center/cover;
 } */
+
+
 .showcase {
     position: relative;
     height: 100vh;
@@ -15,7 +17,8 @@
 .content {
     z-index: 10;
     font-family:OCR A Std, monospace;
-    color: #f59342
+    color: #532d01;
+    
     
 }
 .video-container {
@@ -47,3 +50,4 @@
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
 } 
+
